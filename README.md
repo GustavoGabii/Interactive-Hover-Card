@@ -16,8 +16,19 @@ Este é um projeto simples de um card interativo que utiliza HTML e CSS puro. O 
 
 ### Tecnologias
 
-  - HTML5
+  - HTML5: Estruturação semântica.
 
-  -  CSS3 (Flexbox, Position Absolute, Transitions e Gradients)
+  - CSS3:
 
-  -   oogle Fonts (Poppins)
+      - Flexbox: Centralização do card na tela.
+
+      -  Positioning (Absolute): Controle preciso das camadas de imagem e texto.
+
+      - Transitions: Animações fluidas de 0.5s.
+
+      - Transforms: Uso de translateX e scale para manter a centralização durante a animação.
+
+      - Gradients: Fundos modernos e dinâmicos.
+
+  - Google Fonts: Fonte "Poppins" para uma tipografia limpa.
+    
